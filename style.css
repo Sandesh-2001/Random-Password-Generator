@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    margin-left: 20px;
+    color: white;
+    text-align: center;
+    
+}
+
+#f-h {
+    color: white;
+    margin-bottom: 0px;
+
+}
+#s-h {
+    color: green;
+    margin-top:0px;
+}
+
+#generate-pass {
+    background-color: green;
+    color: white;
+    padding: 5px 7px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+#f-pass {
+    color: green;
+    padding: 5px 7px;
+    margin-left: 50px;
+
+}
+
+#s-pass {
+    color: green;
+    padding: 5px 7px;
+    margin-left: 50px;
+}
